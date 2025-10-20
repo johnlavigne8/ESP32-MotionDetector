@@ -85,7 +85,7 @@ AUTHOR
 ------------------------------------------------------------
 John Lavigne
 Computer Engineering | Iowa State University
-jlavigne@iastate.edu
+johnlavigne8@gmail.com
 
 ------------------------------------------------------------
 LICENSE
