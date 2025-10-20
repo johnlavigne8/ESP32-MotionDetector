@@ -1,0 +1,8 @@
+# ESP-IDF build files
+/build/
+/dist/
+/*.bin
+/sdkconfig.old
+*.pyc
+*.log
+.DS_Store
